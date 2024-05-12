@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "d:\\Profile Projects\\the18project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\the18project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\the18project.bundle.scp.css"
+    },
+    {
+      "Id": "d:\\Profile Projects\\the18project\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "d:\\Profile Projects\\the18project\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "d:\\Profile Projects\\the18project\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "d:\\Profile Projects\\the18project\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.the18project.props",
+      "PackagePath": "build\\the18project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.the18project.props",
+      "PackagePath": "buildMultiTargeting\\the18project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.the18project.props",
+      "PackagePath": "buildTransitive\\the18project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.the18project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
