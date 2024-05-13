@@ -1,24 +1,44 @@
 {
   "Files": [
     {
-      "Id": "d:\\Profile Projects\\the18project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\the18project.bundle.scp.css",
-      "PackagePath": "staticwebassets\\the18project.bundle.scp.css"
-    },
-    {
-      "Id": "d:\\Profile Projects\\the18project\\wwwroot\\app.css",
+      "Id": "D:\\Profile Projects\\the18project\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "d:\\Profile Projects\\the18project\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "D:\\Profile Projects\\the18project\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "d:\\Profile Projects\\the18project\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "D:\\Profile Projects\\the18project\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "d:\\Profile Projects\\the18project\\wwwroot\\favicon.png",
+      "Id": "D:\\Profile Projects\\the18project\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Profile Projects\\the18project\\wwwroot\\fonts\\NeueMachina-Regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\NeueMachina-Regular.woff"
+    },
+    {
+      "Id": "D:\\Profile Projects\\the18project\\wwwroot\\fonts\\NeueMachina-Regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\NeueMachina-Regular.woff2"
+    },
+    {
+      "Id": "D:\\Profile Projects\\the18project\\wwwroot\\fonts\\NeueMachina-Ultrabold.woff",
+      "PackagePath": "staticwebassets\\fonts\\NeueMachina-Ultrabold.woff"
+    },
+    {
+      "Id": "D:\\Profile Projects\\the18project\\wwwroot\\fonts\\NeueMachina-Ultrabold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\NeueMachina-Ultrabold.woff2"
+    },
+    {
+      "Id": "D:\\Profile Projects\\the18project\\wwwroot\\home.css",
+      "PackagePath": "staticwebassets\\home.css"
+    },
+    {
+      "Id": "D:\\Profile Projects\\the18project\\wwwroot\\img\\Oval3.png",
+      "PackagePath": "staticwebassets\\img\\Oval3.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.the18project.props",

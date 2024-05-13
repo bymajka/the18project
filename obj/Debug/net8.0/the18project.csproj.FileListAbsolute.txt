@@ -18,10 +18,7 @@ d:\Profile Projects\the18project\obj\Debug\net8.0\staticwebassets\msbuild.build.
 d:\Profile Projects\the18project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.the18project.props
 d:\Profile Projects\the18project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.the18project.props
 d:\Profile Projects\the18project\obj\Debug\net8.0\staticwebassets.pack.json
-d:\Profile Projects\the18project\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
-d:\Profile Projects\the18project\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 d:\Profile Projects\the18project\obj\Debug\net8.0\scopedcss\bundle\the18project.styles.css
-d:\Profile Projects\the18project\obj\Debug\net8.0\scopedcss\projectbundle\the18project.bundle.scp.css
 d:\Profile Projects\the18project\obj\Debug\net8.0\the18project.dll
 d:\Profile Projects\the18project\obj\Debug\net8.0\refint\the18project.dll
 d:\Profile Projects\the18project\obj\Debug\net8.0\the18project.pdb
