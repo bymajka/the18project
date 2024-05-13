@@ -27,3 +27,4 @@ d:\Profile Projects\the18project\obj\Debug\net8.0\refint\the18project.dll
 d:\Profile Projects\the18project\obj\Debug\net8.0\the18project.pdb
 D:\Profile Projects\the18project\obj\Debug\net8.0\the18project.genruntimeconfig.cache
 D:\Profile Projects\the18project\obj\Debug\net8.0\ref\the18project.dll
+d:\Profile Projects\the18project\obj\Debug\net8.0\the18project.sourcelink.json
