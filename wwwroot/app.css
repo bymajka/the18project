@@ -1,6 +1,17 @@
 html, body {
     font-family: 'NeueMachina-Regular';
     background-color: #f0f0f0;
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
 }
 
 a, .btn-link {

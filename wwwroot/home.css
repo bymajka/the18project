@@ -1,7 +1,29 @@
+button {
+  line-height: 24px;
+  height: 52px;
+  border: 0px;
+  font-size: 18px;
+}
+
+h1 { 
+  font-size: 70px;
+  line-height: 80px;
+  letter-spacing: -4px;
+  color: #151515;
+  padding-bottom: 20px;
+}
+
 .header_wrapper {
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
+    max-width: 1512px;
+    margin-left: 32px;
+    margin-right: 32px;
+}
+
+.welcome_block_wrapper {
+  padding-top: 120px;
+  max-width: 1512px;
+  margin-left: 32px;
+  margin-right: 32px;
 }
 
 .header {
@@ -11,7 +33,6 @@
     align-items: center;
     padding-top: 32px;
     height: 52px;
-    min-width: 960px;
   }
 
   .header-left, .header-right {
@@ -41,11 +62,23 @@
     font-size: 26px;
   }
 
-  #login, #sign_up {
-    height: 52px;
-    border: 0px;
-    font-size: 24px;
-  }
+.welcome_block {
+  display: flex;
+  max-height: 604px;
+}
+
+.welcome_block-left {
+  flex: 1;
+  max-width: 721px;
+  min-width: 619px;
+}
+
+.h1block {
+  font-size: 18px;
+  line-height: 26px;
+  color: #151515;
+  padding-bottom: 40px;
+}
 
   #login {
     width: 91px;
@@ -59,3 +92,28 @@
     color: white;
   }
 
+  #email_block {
+    display: flex;
+    width: 505px;
+    height: 52px;
+    margin-bottom: 72px;
+  }
+
+  #email {
+    flex: 1;
+    border: none;
+  }
+
+  #email_submit_button {
+    width: 144px;
+    height: 52px;
+    color: white;
+    background-color: black;
+  }
+
+::placeholder {
+  color: #151515;
+  font-size: 18px; 
+  line-height: 24px;
+  padding-left: 16px;
+}
