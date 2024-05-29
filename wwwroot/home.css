@@ -5,12 +5,17 @@ button {
   font-size: 18px;
 }
 
+p {
+  margin: 0;
+}
+
 h1 { 
   font-size: 70px;
   line-height: 80px;
   letter-spacing: -4px;
   color: #151515;
   padding-bottom: 20px;
+  margin: 0;
 }
 
 h2 {
@@ -18,6 +23,33 @@ h2 {
   letter-spacing: -3px;
   color: #151515;
   padding-bottom: 20px;
+  margin: 0;
+}
+
+h3 {
+  font-size: 28px;
+  letter-spacing: -1.4px;
+  color: #151515;
+  padding-bottom: 16px;
+  margin: 0;
+}
+
+.block_label {
+  width: auto;
+  height: 38px;
+  border: 2px solid;
+  border-color: #000000;
+  text-transform: uppercase;
+  font-family: 'NeueMachina-Ultrabold';
+  font-size: 14px;
+  line-height: 26px;
+  padding: 6px 10px;
+  margin-bottom: 40px;
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
 .header_wrapper {
@@ -34,6 +66,13 @@ h2 {
 }
 
 .about_us_wrapper_block {
+  padding-top: 200px;
+  max-width: 1512px;
+  margin-left: 32px;
+  margin-right: 32px;
+}
+
+.how_it_works_wrapper_block {
   padding-top: 200px;
   max-width: 1512px;
   margin-left: 32px;
@@ -79,6 +118,7 @@ h2 {
 .welcome_block {
   display: flex;
   max-height: 604px;
+  justify-content: space-between;
 }
 
 .welcome_block-left {
@@ -97,12 +137,59 @@ h2 {
 .about_us_block {
   display: flex;
   max-height: 672px;
+  justify-content: space-between;
+}
+
+.how_it_works_block {
+  display: flex;
+  max-height: 919px;
+  justify-content: space-between;
+}
+
+.how_it_works_block img, 
+.about_us_block img,
+.welcome_block img{
+  height: min-content;
 }
 
 .about_us_block-right {
   flex: 1;
   min-width: 570px;
   max-width: 750px;
+}
+
+.how_it_works_block-left {
+  flex: 1;
+  max-width: 659px;
+  min-width: 627px;
+}
+
+.how_it_works_column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 48px;
+}
+
+.how_it_works_row {
+  display: flex;
+  align-items: flex-start; 
+  text-align: left; 
+  flex-direction: row;
+  width: 100%;
+}
+
+.row_content {
+  flex: 1;
+}
+
+.row_textblock {
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.row_icon {
+  margin-right: 28px;
 }
 
 .list-icon {
@@ -138,24 +225,6 @@ h2 {
     height: 52px;
     color: white;
     background-color: black;
-  }
-
-  #about_us_label {
-    width: 115px;
-    height: 38px;
-    border: 2px solid;
-    border-color: #000000;
-    text-transform: uppercase;
-    font-family: 'NeueMachina-Ultrabold';
-    font-size: 14px;
-    line-height: 26px;
-    padding: 6px 10px;
-    margin-bottom: 40px;
-    box-sizing: border-box;
-    display: flex;  
-    align-items: center;
-    justify-content: center;
-    text-align: center;
   }
 
   #about_us_list {

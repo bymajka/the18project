@@ -41,6 +41,42 @@
       "PackagePath": "staticwebassets\\img\\Oval3.png"
     },
     {
+      "Id": "D:\\Profile Projects\\the18project\\wwwroot\\svg\\about_us_img.svg",
+      "PackagePath": "staticwebassets\\svg\\about_us_img.svg"
+    },
+    {
+      "Id": "D:\\Profile Projects\\the18project\\wwwroot\\svg\\how it works icons\\how_it_works_icon1.svg",
+      "PackagePath": "staticwebassets\\svg\\how it works icons\\how_it_works_icon1.svg"
+    },
+    {
+      "Id": "D:\\Profile Projects\\the18project\\wwwroot\\svg\\how it works icons\\how_it_works_icon2.svg",
+      "PackagePath": "staticwebassets\\svg\\how it works icons\\how_it_works_icon2.svg"
+    },
+    {
+      "Id": "D:\\Profile Projects\\the18project\\wwwroot\\svg\\how it works icons\\how_it_works_icon3.svg",
+      "PackagePath": "staticwebassets\\svg\\how it works icons\\how_it_works_icon3.svg"
+    },
+    {
+      "Id": "D:\\Profile Projects\\the18project\\wwwroot\\svg\\how it works icons\\how_it_works_icon4.svg",
+      "PackagePath": "staticwebassets\\svg\\how it works icons\\how_it_works_icon4.svg"
+    },
+    {
+      "Id": "D:\\Profile Projects\\the18project\\wwwroot\\svg\\how_it_works_img.svg",
+      "PackagePath": "staticwebassets\\svg\\how_it_works_img.svg"
+    },
+    {
+      "Id": "D:\\Profile Projects\\the18project\\wwwroot\\svg\\list_icon.svg",
+      "PackagePath": "staticwebassets\\svg\\list_icon.svg"
+    },
+    {
+      "Id": "D:\\Profile Projects\\the18project\\wwwroot\\svg\\payment_systems.svg",
+      "PackagePath": "staticwebassets\\svg\\payment_systems.svg"
+    },
+    {
+      "Id": "D:\\Profile Projects\\the18project\\wwwroot\\svg\\welcome_img.svg",
+      "PackagePath": "staticwebassets\\svg\\welcome_img.svg"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.the18project.props",
       "PackagePath": "build\\the18project.props"
     },
