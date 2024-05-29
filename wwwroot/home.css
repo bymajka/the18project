@@ -13,6 +13,13 @@ h1 {
   padding-bottom: 20px;
 }
 
+h2 {
+  font-size: 60px;
+  letter-spacing: -3px;
+  color: #151515;
+  padding-bottom: 20px;
+}
+
 .header_wrapper {
     max-width: 1512px;
     margin-left: 32px;
@@ -21,6 +28,13 @@ h1 {
 
 .welcome_block_wrapper {
   padding-top: 120px;
+  max-width: 1512px;
+  margin-left: 32px;
+  margin-right: 32px;
+}
+
+.about_us_wrapper_block {
+  padding-top: 200px;
   max-width: 1512px;
   margin-left: 32px;
   margin-right: 32px;
@@ -80,6 +94,21 @@ h1 {
   padding-bottom: 40px;
 }
 
+.about_us_block {
+  display: flex;
+  max-height: 672px;
+}
+
+.about_us_block-right {
+  flex: 1;
+  min-width: 570px;
+  max-width: 750px;
+}
+
+.list-icon {
+  margin-right: 20px;
+}
+
   #login {
     width: 91px;
     color: black;
@@ -109,6 +138,40 @@ h1 {
     height: 52px;
     color: white;
     background-color: black;
+  }
+
+  #about_us_label {
+    width: 115px;
+    height: 38px;
+    border: 2px solid;
+    border-color: #000000;
+    text-transform: uppercase;
+    font-family: 'NeueMachina-Ultrabold';
+    font-size: 14px;
+    line-height: 26px;
+    padding: 6px 10px;
+    margin-bottom: 40px;
+    box-sizing: border-box;
+    display: flex;  
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  #about_us_list {
+    padding-top: 60px;
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+  }
+
+  #about_us_list li {
+    display: flex;
+    align-items: center;
+  }
+
+  #about_us_list li:not(:last-child) {
+    margin-bottom: 24px;
   }
 
 ::placeholder {
